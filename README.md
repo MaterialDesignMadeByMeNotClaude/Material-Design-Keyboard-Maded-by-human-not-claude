@@ -1,0 +1,1 @@
+Hey there! i made this app because i have nothing to but to know if vibecoding is easy or not.. in fact it is. i ran out of free session, theres a hidden picture in this keyboard but i dont know how to make it appear, pls help me with that.
