@@ -8,7 +8,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Unzip project
-        run: unzip -q MaterialKeyboard2.zip
+        run: unzip -q MaterialKeyboard3.zip
       - uses: actions/setup-java@v4
         with:
           distribution: temurin
